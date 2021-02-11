@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://2017libin.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-11T18:05:49.487Z</updated>
+    <title>Chase的博客</title>
+    <updated>2021-02-11T18:28:35.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://2017libin.github.io"/>
     <link rel="self" href="https://2017libin.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://2017libin.github.io/images/avatar.png</logo>
     <icon>https://2017libin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Chase的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[第一篇日志]]></title>
+        <id>https://2017libin.github.io/post/di-yi-pian-ri-zhi/</id>
+        <link href="https://2017libin.github.io/post/di-yi-pian-ri-zhi/">
+        </link>
+        <updated>2021-02-11T18:16:58.000Z</updated>
+        <content type="html"><![CDATA[<p>原来第一行不能缩进<br>
+　　今天是大年初一，同时也是我这个网站建立的第一天。有点粗糙，但是也很有意义。之前一直都是通过<strong>作业部落</strong>来记录自己的学习和生活。但是通过作业部落写的文章是私有的，只有通过发布生成链接才能够分享给别人查看相应的文章，及其不方便。这次通过Gridea和github建立一个个人的静态网站，更方便来记录我自己的生活和学习，以后的话希望自己能够经常更新自己的生活和学习。能够活跃这个我自己的小网站哈哈哈。<br>
+　　好久没用markdown了，语法有点忘了。这篇文章排版不好后期再调了。睡了睡了，大家新年快乐111</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试2]]></title>
+        <id>https://2017libin.github.io/post/ce-shi-2/</id>
+        <link href="https://2017libin.github.io/post/ce-shi-2/">
+        </link>
+        <updated>2021-02-11T18:13:34.000Z</updated>
+        <content type="html"><![CDATA[<p>22</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试1]]></title>
+        <id>https://2017libin.github.io/post/ce-shi-1/</id>
+        <link href="https://2017libin.github.io/post/ce-shi-1/">
+        </link>
+        <updated>2021-02-11T18:13:19.000Z</updated>
+        <content type="html"><![CDATA[<p>11</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://2017libin.github.io/post/about/</id>
